@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ami!
+- 👀 I’m interested in getting an internship for the upcoming Summer!
+- 🌱 I’m currently learning C# & MySQL Server
+- 📫 How to reach me: I use LinkedIn & mostly Email ma00106@mix.wvu.edu. 
+- 😄 Pronouns: She, Her
+- ⚡ Fun fact: I am a lefty who can't write with my left hand.
